@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    width: 20% auto;
+    font-size: 150%;
+}
+form, .desencriptado{
+    width: 40% auto;
+    margin: 10px 10px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}
